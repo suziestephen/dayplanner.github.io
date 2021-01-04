@@ -7,7 +7,7 @@
 </h1>
 
 The link to the webpage is:
-<a href="https://suziestephen.github.io/password-generator-hw.github.io/"> Day Planner </a>
+<a href="https://suziestephen.github.io/dayplanner.github.io/"> Day Planner </a>
 
 
 <b>Functionality:</b>
